@@ -30,7 +30,7 @@ After obtaining the data, place the files at the paths listed in `scripts/R/00_c
 ## Repository structure
 
 ```text
-FlorestaSC-biodiversity-dynamics/
+FlorestaSC-forest-biodiversity-dynamics/
 ├── data/
 │   ├── raw/
 │   │   ├── environmental/
