@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+outputs/
+*.aux
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

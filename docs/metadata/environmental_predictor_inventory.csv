@@ -1,0 +1,74 @@
+variable,variable_group,source,cycle_or_contrast
+anom_lst_max,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_lst_mean,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_lst_min,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_lst_sd,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_ndvi_max,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_ndvi_mean,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_ndvi_min,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_ndvi_sd,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_prec_max,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_prec_mean,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_prec_min,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_prec_sd,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_rad_mean,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_rad_sd,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_umid_mean,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+anom_umid_sd,inter-cycle anomaly,computed as cycle2 minus cycle1 from complete cycle-summary export,delta
+cycle_lst_max_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_lst_max_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_lst_mean_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_lst_mean_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_lst_min_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_lst_min_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_lst_sd_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_lst_sd_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_ndvi_max_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_ndvi_max_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_ndvi_mean_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_ndvi_mean_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_ndvi_min_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_ndvi_min_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_ndvi_sd_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_ndvi_sd_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_prec_max_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_prec_max_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_prec_mean_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_prec_mean_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_prec_min_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_prec_min_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_prec_sd_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_prec_sd_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_rad_mean_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_rad_mean_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_rad_sd_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_rad_sd_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_umid_mean_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_umid_mean_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+cycle_umid_sd_cycle1,cycle-level summary,GEE complete cycle-summary export,cycle1
+cycle_umid_sd_cycle2,cycle-level summary,GEE complete cycle-summary export,cycle2
+elevation_m,topography,SRTM,static
+monthly_lst_max_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_lst_max_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_lst_mean_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_lst_mean_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_lst_min_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_lst_min_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_lst_sd_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_lst_sd_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_ndvi_max_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_ndvi_max_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_ndvi_mean_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_ndvi_mean_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_ndvi_min_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_ndvi_min_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_ndvi_sd_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_ndvi_sd_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_prec_max_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_prec_max_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_prec_mean_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_prec_mean_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_prec_min_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_prec_min_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2
+monthly_prec_sd_cycle1,cycle-level monthly summary,GEE monthly-composite export,cycle1
+monthly_prec_sd_cycle2,cycle-level monthly summary,GEE monthly-composite export,cycle2

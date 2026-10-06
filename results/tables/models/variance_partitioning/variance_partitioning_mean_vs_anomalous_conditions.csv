@@ -1,0 +1,3 @@
+response,pure_mean_conditions_pct,pure_anomalous_conditions_pct,shared_fraction_pct,total_adjusted_R2_pct,interpretation
+Bray-Curtis dissimilarity,1.23,1.09,1.37,3.7,Taxonomic compositional change was weakly associated with both mean conditions and anomalies.
+Delta Faith PD,2.86,6.4,0.1,9.37,Phylogenetic diversity change was more strongly associated with climatic anomalies than with long-term mean conditions.

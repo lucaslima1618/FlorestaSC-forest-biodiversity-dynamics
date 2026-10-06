@@ -1,0 +1,80 @@
+"model","Variable","Estimate","Std_Error","t_value","p_value","Significance","Direction"
+"anom","PD_ciclo1",-0.076,0.031,-2.49,0.0133,"*","Negative"
+"anom","anom_prec_mean_c2",-336.876,143.201,-2.35,0.0194,"*","Negative"
+"anom","anom_ndvi_sd_c2",5020.379,2136.503,2.35,0.0195,"*","Positive"
+"anom","anom_ndvi_min_c2",408.525,205.851,1.98,0.0482,"*","Positive"
+"anom","MNTD_ciclo1",-1.19,0.78,-1.53,0.128,"","Negative"
+"anom","anom_prec_sd_c2",88.624,69.554,1.27,0.204,"","Positive"
+"anom","anom_lst_max_c1",-19.188,15.476,-1.24,0.216,"","Negative"
+"anom","anom_ndvi_min_c1",310.972,252.351,1.23,0.219,"","Positive"
+"anom","anom_ndvi_mean_c2",2322.009,1897.698,1.22,0.222,"","Positive"
+"anom","anom_rad_sd_c1",677.512,603.821,1.12,0.263,"","Positive"
+"anom","anom_lst_min_c2",-10.302,9.482,-1.09,0.278,"","Negative"
+"anom","anom_lst_min_c1",-13.895,12.9,-1.08,0.282,"","Negative"
+"anom","anom_umid_sd_c2",131.646,122.098,1.08,0.282,"","Positive"
+"anom","anom_umid_mean_c1",-101.171,95.11,-1.06,0.288,"","Negative"
+"anom","anom_prec_max_c1",1.351,1.497,0.9,0.368,"","Positive"
+"anom","anom_prec_sd_c1",-57.784,65.368,-0.88,0.377,"","Negative"
+"anom","anom_prec_max_c2",-1.526,1.746,-0.87,0.383,"","Negative"
+"anom","anom_umid_mean_c2",83.584,95.576,0.87,0.383,"","Positive"
+"anom","anom_rad_sd_c2",-467.043,558.538,-0.84,0.404,"","Negative"
+"anom","anom_prec_mean_c1",122.698,155.523,0.79,0.431,"","Positive"
+"anom","anom_umid_sd_c1",-98.488,125.4,-0.79,0.433,"","Negative"
+"anom","anom_rad_mean_c1",-205.589,268.309,-0.77,0.444,"","Negative"
+"anom","MPD_ciclo1",-0.436,0.603,-0.72,0.47,"","Negative"
+"anom","anom_ndvi_max_c1",-745.89,1360.147,-0.55,0.584,"","Negative"
+"anom","anom_ndvi_mean_c1",-847.537,1835.266,-0.46,0.645,"","Negative"
+"anom","sorensen",-99.548,233.1,-0.43,0.67,"","Negative"
+"anom","anom_lst_mean_c2",27.539,78.914,0.35,0.727,"","Positive"
+"anom","anom_ndvi_sd_c1",-691.649,1993.656,-0.35,0.729,"","Negative"
+"anom","anom_lst_max_c2",4.614,17.975,0.26,0.798,"","Positive"
+"anom","anom_lst_sd_c2",-26.568,145.534,-0.18,0.855,"","Negative"
+"anom","anom_ndvi_max_c2",-141.136,1232.212,-0.11,0.909,"","Negative"
+"anom","anom_lst_sd_c1",2.561,144.797,0.02,0.986,"","Positive"
+"anom","anom_rad_mean_c2",2.946,277.65,0.01,0.992,"","Positive"
+"anom","anom_lst_mean_c1",-0.004,76.225,0,1,"","Negative"
+"anom","anom_prec_min_c1",NA,NA,NA,NA,"",NA
+"anom","anom_prec_min_c2",NA,NA,NA,NA,"",NA
+"med + delta_med","PD_ciclo1",-0.123,0.031,-3.91,0.000118,"***","Negative"
+"med + delta_med","med_prec_max_c1",1.376,0.595,2.31,0.0215,"*","Positive"
+"med + delta_med","med_ndvi_max_c2",4126.432,1874.498,2.2,0.0285,"*","Positive"
+"med + delta_med","med_prec_min_c2",-0.773,0.461,-1.68,0.0943,"","Negative"
+"med + delta_med","MNTD_ciclo1",-1.332,0.809,-1.65,0.101,"","Negative"
+"med + delta_med","med_altitude_c1",-0.193,0.119,-1.63,0.104,"","Negative"
+"med + delta_med","med_prec_sd_c1",-4.403,2.786,-1.58,0.115,"","Negative"
+"med + delta_med","med_lst_min_c2",103.5,77.82,1.33,0.185,"","Positive"
+"med + delta_med","med_prec_sd_c2",-1.369,1.051,-1.3,0.194,"","Negative"
+"med + delta_med","med_ndvi_max_c1",-2093.31,1643.394,-1.27,0.204,"","Negative"
+"med + delta_med","med_ndvi_mean_c2",-2102.422,1797.789,-1.17,0.243,"","Negative"
+"med + delta_med","med_ndvi_sd_c2",-5565.488,4834.947,-1.15,0.251,"","Negative"
+"med + delta_med","med_lst_sd_c2",191.303,185.802,1.03,0.304,"","Positive"
+"med + delta_med","med_lst_max_c2",-51.878,54.844,-0.95,0.345,"","Negative"
+"med + delta_med","med_lst_mean_c1",-81.638,91.657,-0.89,0.374,"","Negative"
+"med + delta_med","med_lst_min_c1",48.734,55.936,0.87,0.384,"","Positive"
+"med + delta_med","med_ndvi_min_c1",-792.971,997.484,-0.79,0.427,"","Negative"
+"med + delta_med","sorensen",-166.521,234.897,-0.71,0.479,"","Negative"
+"med + delta_med","med_ndvi_mean_c1",1119.882,1620.551,0.69,0.49,"","Positive"
+"med + delta_med","med_prec_max_c2",0.183,0.279,0.66,0.513,"","Positive"
+"med + delta_med","med_lst_sd_c1",92.336,151.844,0.61,0.544,"","Positive"
+"med + delta_med","med_lst_mean_c2",-37.661,95.817,-0.39,0.695,"","Negative"
+"med + delta_med","MPD_ciclo1",-0.24,0.633,-0.38,0.704,"","Negative"
+"med + delta_med","med_ndvi_sd_c1",-1331.297,3748.825,-0.36,0.723,"","Negative"
+"med + delta_med","med_prec_mean_c1",-0.443,1.254,-0.35,0.724,"","Negative"
+"med + delta_med","med_prec_min_c1",-0.161,1.147,-0.14,0.888,"","Negative"
+"med + delta_med","med_ndvi_min_c2",-97.135,1236.836,-0.08,0.937,"","Negative"
+"med + delta_med","med_prec_mean_c2",0.003,0.514,0.01,0.996,"","Positive"
+"med + delta_med","med_lst_max_c1",-0.021,47.172,0,1,"","Negative"
+"med + delta_med","med_altitude_c2",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_altitude",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_lst_max",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_lst_mean",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_lst_min",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_lst_sd",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_ndvi_max",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_ndvi_mean",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_ndvi_min",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_ndvi_sd",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_prec_max",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_prec_mean",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_prec_min",NA,NA,NA,NA,"",NA
+"med + delta_med","delta_med_prec_sd",NA,NA,NA,NA,"",NA

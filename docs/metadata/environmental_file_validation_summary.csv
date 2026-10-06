@@ -1,0 +1,7 @@
+item,value
+remote_sensing_reanalysis_candidates_excluding_elevation,72
+topographic_covariates,1
+total_predictor_columns_in_all_variables,73
+sampling_units_in_environmental_table,449
+cycle_rows_in_complete_export,884
+anomaly_rows_recomputed,442
