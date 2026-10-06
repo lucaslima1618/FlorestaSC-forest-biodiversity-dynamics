@@ -38,6 +38,7 @@ authors:
     given-names: "André Luís"
     orcid: "https://orcid.org/0000-0002-1940-9581"
     affiliation: "Programa de Pós-graduação em Engenharia Florestal, Universidade Regional de Blumenau (FURB), Blumenau, Santa Catarina, Brazil"
+doi: 10.5281/zenodo.23176602
 repository-code: https://github.com/lucaslima1618/FlorestaSC-forest-biodiversity-dynamics
 license:
   - MIT

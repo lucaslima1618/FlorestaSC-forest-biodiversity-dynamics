@@ -1,5 +1,7 @@
 # FlorestaSC forest biodiversity dynamics
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176602.svg)](https://doi.org/10.5281/zenodo.23176602)
+
 
 This repository contains the reproducibility package for the manuscript **Spatiotemporal patterns and environmental drivers of tropical forest biodiversity dynamics in the subtropical Atlantic Forest**.
 
@@ -105,7 +107,9 @@ with its `.shx`, `.dbf`, `.prj`, and auxiliary files. The projection is WGS 84 /
 
 ## Citation
 
-Please cite the manuscript and this repository when using these data or scripts.
+Please cite the manuscript and this repository when using these data or scripts:
+
+> Lima, L. V., Bohn, A., Vibrans, A. C., Lingner, D. V., Kassner Filho, A., Rosa, G. Y., Oliveira, U., Gritz, G. S., & de Gasper, A. L. (2026). *Data and code for: Spatiotemporal patterns and environmental drivers of tropical forest biodiversity dynamics in the subtropical Atlantic Forest* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23176602
 
 ## License
 
